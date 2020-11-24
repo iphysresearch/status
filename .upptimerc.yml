@@ -6,13 +6,13 @@ repo: status # Your Github repository name
 sites:
   - name: "IPhysResearch"
     url: https://iphysresearch.github.io/
-  - name: "IPhysResearch | Blog"
+  - name: "IPhysResearch / Blog"
     url: https://iphysresearch.github.io/blog/
-  - name: "IPhysResearch | Profile"
+  - name: "IPhysResearch / Profile"
     url: https://iphysresearch.github.io/-he.wang/
-  - name: "IPhysResearch | Survey4GWML"
+  - name: "IPhysResearch / Survey4GWML"
     url: https://iphysresearch.github.io/Survey4GWML/
-  - name: "IPhysResearch | PhDthesis_html"
+  - name: "IPhysResearch / PhDthesis_html"
     url: https://iphysresearch.github.io/PhDthesis_html/
 #   - name: Wikipedia
 #     url: https://en.wikipedia.org
