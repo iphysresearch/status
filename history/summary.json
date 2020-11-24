@@ -1,18 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "IPhysResearch",
+    "url": "https://iphysresearch.github.io/",
+    "slug": "i-phys-research",
     "status": "up",
     "uptime": "100.00%",
-    "time": 47
+    "time": 50
   },
   {
-    "name": "My Blog",
+    "name": "IPhysResearch | Blog",
     "url": "https://iphysresearch.github.io/blog/",
-    "slug": "my-blog",
+    "slug": "i-phys-research-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 83
+    "time": 4
+  },
+  {
+    "name": "IPhysResearch | Profile",
+    "url": "https://iphysresearch.github.io/-he.wang/",
+    "slug": "i-phys-research-profile",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 24
+  },
+  {
+    "name": "IPhysResearch | Survey4GWML",
+    "url": "https://iphysresearch.github.io/Survey4GWML/",
+    "slug": "i-phys-research-survey4-gwml",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 23
+  },
+  {
+    "name": "IPhysResearch | PhDthesis_html",
+    "url": "https://iphysresearch.github.io/PhDthesis_html/",
+    "slug": "i-phys-research-ph-dthesis-html",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 11
   }
 ]
