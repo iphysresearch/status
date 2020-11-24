@@ -5,38 +5,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 38
+    "time": 47
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "My Blog",
+    "url": "https://iphysresearch.github.io/blog/",
+    "slug": "my-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 30
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 288
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
+    "time": 83
   }
 ]
