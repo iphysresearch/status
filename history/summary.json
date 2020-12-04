@@ -5,7 +5,7 @@
     "slug": "i-phys-research",
     "status": "up",
     "uptime": "100.00%",
-    "time": 259
+    "time": 246
   },
   {
     "name": "IPhysResearch / Blog",
@@ -13,7 +13,7 @@
     "slug": "i-phys-research-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 31
+    "time": 29
   },
   {
     "name": "IPhysResearch / Profile",
@@ -21,7 +21,7 @@
     "slug": "i-phys-research-profile",
     "status": "up",
     "uptime": "100.00%",
-    "time": 22
+    "time": 21
   },
   {
     "name": "IPhysResearch / Survey4GWML",
@@ -29,7 +29,7 @@
     "slug": "i-phys-research-survey4-gwml",
     "status": "up",
     "uptime": "100.00%",
-    "time": 54
+    "time": 51
   },
   {
     "name": "IPhysResearch / PhDthesis_html",
@@ -37,6 +37,6 @@
     "slug": "i-phys-research-ph-dthesis-html",
     "status": "up",
     "uptime": "100.00%",
-    "time": 26
+    "time": 25
   }
 ]
