@@ -29,7 +29,7 @@
     "slug": "i-phys-research-survey4-gwml",
     "status": "up",
     "uptime": "100.00%",
-    "time": 62
+    "time": 60
   },
   {
     "name": "IPhysResearch / PhDthesis_html",
@@ -37,6 +37,6 @@
     "slug": "i-phys-research-ph-dthesis-html",
     "status": "up",
     "uptime": "100.00%",
-    "time": 29
+    "time": 28
   }
 ]
