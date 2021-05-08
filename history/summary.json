@@ -13,7 +13,7 @@
     "slug": "i-phys-research-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 34
+    "time": 35
   },
   {
     "name": "IPhysResearch / Profile",
@@ -21,7 +21,7 @@
     "slug": "i-phys-research-profile",
     "status": "up",
     "uptime": "100.00%",
-    "time": 28
+    "time": 29
   },
   {
     "name": "IPhysResearch / Survey4GWML",
@@ -37,6 +37,6 @@
     "slug": "i-phys-research-ph-dthesis-html",
     "status": "up",
     "uptime": "100.00%",
-    "time": 24
+    "time": 25
   }
 ]
