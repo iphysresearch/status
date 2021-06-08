@@ -22,9 +22,9 @@
     "url": "https://iphysresearch.github.io/blog/",
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,60 +33,68 @@
     "timeWeek": 104,
     "timeMonth": 45,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "IPhysResearch / Profile",
     "url": "https://iphysresearch.github.io/-he.wang/",
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 109,
-    "timeWeek": 51,
-    "timeMonth": 32,
+    "timeDay": 58,
+    "timeWeek": 46,
+    "timeMonth": 31,
     "timeYear": 27,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "IPhysResearch / Survey4GWML",
     "url": "https://iphysresearch.github.io/Survey4GWML/",
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research-survey4-gwml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 241,
-    "timeWeek": 104,
-    "timeMonth": 65,
+    "timeDay": 123,
+    "timeWeek": 92,
+    "timeMonth": 63,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "IPhysResearch / PhDthesis_html",
     "url": "https://iphysresearch.github.io/PhDthesis_html/",
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research-ph-dthesis-html",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 86,
-    "timeWeek": 88,
-    "timeMonth": 40,
+    "timeDay": 46,
+    "timeWeek": 78,
+    "timeMonth": 39,
     "timeYear": 27,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
