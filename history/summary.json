@@ -4,18 +4,20 @@
     "url": "https://iphysresearch.github.io/",
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 201,
-    "timeWeek": 140,
-    "timeMonth": 92,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "time": 119,
+    "timeDay": 116,
+    "timeWeek": 126,
+    "timeMonth": 90,
+    "timeYear": 119,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "IPhysResearch / Blog",
@@ -24,9 +26,9 @@
     "slug": "i-phys-research-blog",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 42,
     "timeDay": 124,
@@ -34,7 +36,7 @@
     "timeMonth": 45,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 7
     }
   },
   {
@@ -44,9 +46,9 @@
     "slug": "i-phys-research-profile",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 27,
     "timeDay": 58,
@@ -54,7 +56,7 @@
     "timeMonth": 31,
     "timeYear": 27,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 7
     }
   },
   {
@@ -64,9 +66,9 @@
     "slug": "i-phys-research-survey4-gwml",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 53,
     "timeDay": 123,
@@ -74,7 +76,7 @@
     "timeMonth": 63,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 7
     }
   },
   {
@@ -84,9 +86,9 @@
     "slug": "i-phys-research-ph-dthesis-html",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 27,
     "timeDay": 46,
@@ -94,7 +96,7 @@
     "timeMonth": 39,
     "timeYear": 27,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 7
     }
   }
 ]
