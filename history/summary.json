@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 35,
-    "timeWeek": 70,
+    "timeDay": 50,
+    "timeWeek": 61,
     "timeMonth": 79,
     "timeYear": 77,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research-blog",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.64%",
+    "uptimeYear": "88.91%",
     "time": 37,
-    "timeDay": 12,
-    "timeWeek": 37,
+    "timeDay": 16,
+    "timeWeek": 32,
     "timeMonth": 47,
     "timeYear": 36,
     "dailyMinutesDown": {
@@ -73,8 +73,7 @@
       "2021-06-20": 1440,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
-      "2021-06-17": 1440,
-      "2021-06-16": 1440
+      "2021-06-17": 1440
     }
   },
   {
@@ -89,8 +88,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
-    "timeDay": 16,
-    "timeWeek": 38,
+    "timeDay": 8,
+    "timeWeek": 31,
     "timeMonth": 46,
     "timeYear": 36,
     "dailyMinutesDown": {}
@@ -107,10 +106,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 17,
-    "timeWeek": 81,
-    "timeMonth": 92,
-    "timeYear": 64,
+    "timeDay": 18,
+    "timeWeek": 55,
+    "timeMonth": 91,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
@@ -125,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 33,
-    "timeDay": 28,
-    "timeWeek": 39,
+    "timeDay": 7,
+    "timeWeek": 33,
     "timeMonth": 42,
-    "timeYear": 35,
+    "timeYear": 34,
     "dailyMinutesDown": {}
   }
 ]
