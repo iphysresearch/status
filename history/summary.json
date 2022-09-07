@@ -58,18 +58,20 @@
     "url": "https://iphysresearch.github.io/Survey4GWML/",
     "icon": "https://favicons.githubusercontent.com/iphysresearch.github.io",
     "slug": "i-phys-research-survey4-gwml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
-    "timeDay": 256,
-    "timeWeek": 100,
-    "timeMonth": 52,
-    "timeYear": 62,
-    "dailyMinutesDown": {}
+    "timeDay": 135,
+    "timeWeek": 89,
+    "timeMonth": 51,
+    "timeYear": 61,
+    "dailyMinutesDown": {
+      "2022-09-07": 0
+    }
   },
   {
     "name": "IPhysResearch / PhDthesis_html",
