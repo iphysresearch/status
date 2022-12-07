@@ -22,18 +22,20 @@
     "url": "https://iphysresearch.github.io/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "94.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 18,
-    "timeWeek": 27,
-    "timeMonth": 51,
+    "timeDay": 16,
+    "timeWeek": 26,
+    "timeMonth": 50,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "IPhysResearch / Profile",
