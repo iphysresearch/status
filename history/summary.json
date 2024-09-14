@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 67,
-    "timeWeek": 70,
+    "timeDay": 78,
+    "timeWeek": 73,
     "timeMonth": 87,
     "timeYear": 76,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-blog",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 40,
-    "timeDay": 8,
-    "timeWeek": 24,
+    "timeDay": 12,
+    "timeWeek": 21,
     "timeMonth": 34,
     "timeYear": 39,
     "dailyMinutesDown": {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 6,
-    "timeWeek": 20,
-    "timeMonth": 30,
+    "timeDay": 13,
+    "timeWeek": 17,
+    "timeMonth": 29,
     "timeYear": 38,
     "dailyMinutesDown": {}
   },
@@ -65,11 +65,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.03%",
+    "uptimeYear": "72.31%",
     "time": 53,
-    "timeDay": 14,
-    "timeWeek": 51,
-    "timeMonth": 57,
+    "timeDay": 18,
+    "timeWeek": 49,
+    "timeMonth": 54,
     "timeYear": 48,
     "dailyMinutesDown": {
       "2023-12-24": 124,
@@ -171,8 +171,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -187,8 +186,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 4,
-    "timeWeek": 19,
+    "timeDay": 19,
+    "timeWeek": 15,
     "timeMonth": 27,
     "timeYear": 38,
     "dailyMinutesDown": {}
