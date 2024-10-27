@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 122,
-    "timeWeek": 116,
-    "timeMonth": 98,
+    "timeDay": 174,
+    "timeWeek": 108,
+    "timeMonth": 97,
     "timeYear": 78,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-blog",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 88,
-    "timeWeek": 53,
-    "timeMonth": 47,
-    "timeYear": 39,
+    "timeDay": 202,
+    "timeWeek": 65,
+    "timeMonth": 50,
+    "timeYear": 40,
     "dailyMinutesDown": {
       "2023-12-16": 30
     }
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 97,
-    "timeWeek": 60,
+    "timeDay": 114,
+    "timeWeek": 59,
     "timeMonth": 48,
     "timeYear": 38,
     "dailyMinutesDown": {}
@@ -61,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-survey4-gwml",
     "status": "up",
-    "uptime": "90.83%",
+    "uptime": "90.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.81%",
+    "uptimeYear": "84.09%",
     "time": 53,
-    "timeDay": 175,
-    "timeWeek": 76,
-    "timeMonth": 68,
+    "timeDay": 117,
+    "timeWeek": 74,
+    "timeMonth": 63,
     "timeYear": 52,
     "dailyMinutesDown": {
       "2023-12-24": 124,
@@ -128,8 +128,7 @@
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
-      "2023-10-29": 1440,
-      "2023-10-28": 1440
+      "2023-10-29": 1440
     }
   },
   {
@@ -144,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 94,
+    "timeDay": 97,
     "timeWeek": 52,
-    "timeMonth": 44,
+    "timeMonth": 43,
     "timeYear": 38,
     "dailyMinutesDown": {}
   }
