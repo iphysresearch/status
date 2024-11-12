@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 55,
-    "timeWeek": 104,
-    "timeMonth": 100,
+    "timeDay": 45,
+    "timeWeek": 102,
+    "timeMonth": 98,
     "timeYear": 79,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-blog",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 41,
-    "timeDay": 4,
-    "timeWeek": 41,
-    "timeMonth": 47,
+    "time": 40,
+    "timeDay": 8,
+    "timeWeek": 39,
+    "timeMonth": 46,
     "timeYear": 40,
     "dailyMinutesDown": {
       "2023-12-16": 30
@@ -50,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 40,
     "timeDay": 5,
-    "timeWeek": 41,
-    "timeMonth": 41,
+    "timeWeek": 39,
+    "timeMonth": 40,
     "timeYear": 39,
     "dailyMinutesDown": {}
   },
@@ -61,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-survey4-gwml",
     "status": "up",
-    "uptime": "90.93%",
+    "uptime": "90.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.20%",
+    "uptimeYear": "88.47%",
     "time": 51,
     "timeDay": 9,
-    "timeWeek": 72,
-    "timeMonth": 58,
+    "timeWeek": 69,
+    "timeMonth": 57,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2023-12-24": 124,
@@ -112,8 +112,7 @@
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
-      "2023-11-14": 1440,
-      "2023-11-13": 1440
+      "2023-11-14": 1440
     }
   },
   {
@@ -128,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 3,
-    "timeWeek": 38,
-    "timeMonth": 39,
+    "timeDay": 6,
+    "timeWeek": 35,
+    "timeMonth": 37,
     "timeYear": 38,
     "dailyMinutesDown": {}
   }
