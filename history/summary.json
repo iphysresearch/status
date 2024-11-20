@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 49,
-    "timeWeek": 70,
-    "timeMonth": 95,
-    "timeYear": 78,
+    "timeDay": 139,
+    "timeWeek": 78,
+    "timeMonth": 92,
+    "timeYear": 79,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-blog",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 15,
-    "timeWeek": 83,
-    "timeMonth": 54,
-    "timeYear": 40,
+    "timeDay": 105,
+    "timeWeek": 93,
+    "timeMonth": 53,
+    "timeYear": 41,
     "dailyMinutesDown": {
       "2023-12-16": 30
     }
@@ -48,9 +48,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 39,
-    "timeDay": 12,
-    "timeWeek": 21,
+    "time": 40,
+    "timeDay": 95,
+    "timeWeek": 30,
     "timeMonth": 37,
     "timeYear": 38,
     "dailyMinutesDown": {}
@@ -61,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-survey4-gwml",
     "status": "up",
-    "uptime": "90.98%",
+    "uptime": "90.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.39%",
+    "uptimeYear": "90.66%",
     "time": 50,
-    "timeDay": 19,
-    "timeWeek": 47,
+    "timeDay": 132,
+    "timeWeek": 61,
     "timeMonth": 57,
     "timeYear": 54,
     "dailyMinutesDown": {
@@ -104,8 +104,7 @@
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
-      "2023-11-22": 1440,
-      "2023-11-21": 1440
+      "2023-11-22": 1440
     }
   },
   {
@@ -120,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 13,
-    "timeWeek": 21,
+    "timeDay": 99,
+    "timeWeek": 31,
     "timeMonth": 36,
     "timeYear": 38,
     "dailyMinutesDown": {}
