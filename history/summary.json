@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 40,
-    "timeWeek": 89,
+    "timeDay": 60,
+    "timeWeek": 73,
     "timeMonth": 85,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 6,
-    "timeWeek": 40,
-    "timeMonth": 49,
+    "timeDay": 22,
+    "timeWeek": 28,
+    "timeMonth": 50,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2023-12-16": 30
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 40,
-    "timeDay": 3,
-    "timeWeek": 41,
-    "timeMonth": 34,
+    "time": 39,
+    "timeDay": 21,
+    "timeWeek": 26,
+    "timeMonth": 35,
     "timeYear": 38,
     "dailyMinutesDown": {}
   },
@@ -61,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-survey4-gwml",
     "status": "up",
-    "uptime": "91.05%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.68%",
+    "uptimeYear": "93.95%",
     "time": 50,
-    "timeDay": 8,
-    "timeWeek": 74,
+    "timeDay": 28,
+    "timeWeek": 61,
     "timeMonth": 64,
     "timeYear": 56,
     "dailyMinutesDown": {
@@ -92,8 +92,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -108,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 5,
-    "timeWeek": 39,
+    "timeDay": 27,
+    "timeWeek": 27,
     "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {}
