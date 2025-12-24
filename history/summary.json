@@ -22,54 +22,60 @@
     "url": "https://iphysresearch.github.io/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "97.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 51,
-    "timeDay": 161,
-    "timeWeek": 71,
-    "timeMonth": 60,
+    "timeDay": 87,
+    "timeWeek": 64,
+    "timeMonth": 58,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "IPhysResearch / Profile (/-he.wang/)",
     "url": "https://iphysresearch.github.io/-he.wang/",
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-profile-he-wang",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 107,
-    "timeWeek": 60,
-    "timeMonth": 54,
-    "timeYear": 56,
-    "dailyMinutesDown": {}
+    "time": 55,
+    "timeDay": 58,
+    "timeWeek": 54,
+    "timeMonth": 52,
+    "timeYear": 55,
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "IPhysResearch / Profile (/blog/about/)",
     "url": "https://iphysresearch.github.io/blog/about/",
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-profile-blog-about",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 141,
-    "timeWeek": 61,
-    "timeMonth": 51,
-    "timeYear": 56,
-    "dailyMinutesDown": {}
+    "time": 55,
+    "timeDay": 75,
+    "timeWeek": 55,
+    "timeMonth": 50,
+    "timeYear": 55,
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "IPhysResearch / Survey4GWML",
@@ -94,18 +100,20 @@
     "url": "https://iphysresearch.github.io/PhDthesis_html/",
     "icon": "https://icons.duckduckgo.com/ip3/iphysresearch.github.io.ico",
     "slug": "i-phys-research-ph-dthesis-html",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 142,
-    "timeWeek": 60,
-    "timeMonth": 53,
-    "timeYear": 50,
-    "dailyMinutesDown": {}
+    "timeDay": 75,
+    "timeWeek": 53,
+    "timeMonth": 52,
+    "timeYear": 49,
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "IPhysResearch / evo-mcts",
